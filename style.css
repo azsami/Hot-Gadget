@@ -1,0 +1,51 @@
+.container{
+    background-color: white;
+    padding-bottom: 100px;
+}
+.buy-button{
+    
+    background-color: #000;
+    color: #fff;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 20px 20px;
+    padding-left: 50px;
+}
+.banner{
+    background-image: url(header-bg.png);
+    background-position: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(107, 107, 107);
+    text-align: center;
+}
+
+small{
+    color: orange;
+    align-self: right top;
+    size: 10px;
+}
+
+.text-center{
+    margin-bottom: 80px;
+}
+
+.justify-content-end{
+    font-size: medium;
+    padding-bottom: 10px;
+}
+
+
+
+figcaption{
+    
+    border-top-left-radius: 10px;
+    
+    font-size: 25px;
+    padding: 3px 30px;
+
+}
